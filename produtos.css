@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Trade+Winds&display=swap');
+
+*{
+    margin: 0;
+    background: #EBB7FF;
+    font-family: "Trade Winds", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+table {
+    width: 100%;
+    height: 100vh;
+}
+
+#roxo {
+    background: #C3AFDE;
+}
+.navega {
+    width: 100%;
+    height: 10vh;
+}
+
+.logo {
+    width: 5.5px;
+    height: 10vh;
+}
+.logo a {
+    background: #C3AFDE;
+}
+.logo img {
+    background: #C3AFDE;
+}
+
+.produtos {
+    text-align: center;
+    width: 15%;
+}
+.produtos a {
+    color: black;
+    background: #C3AFDE;
+    font-size: 1.2em;
+    text-decoration: none;
+}
+
+.ajuda {
+    text-align: center;
+    width: 15%;
+}
+.ajuda a {
+    color: black;
+    background: #C3AFDE;
+    font-size: 1.2em;
+    text-decoration: none;
+}
+
+.quemsomos {
+    text-align: center;
+    width: 15%;
+}
+.quemsomos a {
+    color: black;
+    background: #C3AFDE;
+    font-size: 1.2em;
+    text-decoration: none;
+}
+
+.search {
+    width: 20%;
+}
+.search img {
+    cursor: pointer;
+    background: white;
+    position: relative;
+    right: 10%;
+    top: 15%;
+    text-align: center;
+}
+#search {
+    position: relative;
+    left: 5%;
+    width: 85%;
+    height: 5vh;
+    border-radius: 5px;
+    border: none;
+    background: white;
+}
+
+.person {
+    width: 15%;
+    text-align: center;
+}
+.person img {
+    cursor: pointer;
+    background: #C3AFDE;
+}
+
+.rtx4060 {
+    text-align: center;
+    width: 15%;
+}
+.rtx4060 img {
+    cursor: pointer;
+    position: relative;
+    bottom: 2%;
+}
+.rtx4060 p {
+    color: #4609AE;
+    position: relative;
+    top: 5%;
+    font-size: 1.5em;
+}
+
+.rtx3050 {
+    text-align: center;
+    width: 15%;
+}
+.rtx3050 img {
+    cursor: pointer;
+    position: relative;
+    bottom: 1%;
+}
+.rtx3050 p {
+    color: #4609AE;
+    position: relative;
+    top: 10%;
+    font-size: 1.5em;
+}
+
+.forms{
+    text-align: center;
+}
